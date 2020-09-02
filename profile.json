@@ -1,0 +1,13 @@
+[{
+        "user_name": "Administrator",
+        "user_shortCut": "Admin",
+        "user_op": 2,
+        "user_id": 1
+    },
+    {
+        "user_name": "Basic user",
+        "user_shortCut": "User",
+        "user_op": 1,
+        "user_id": 2
+    }
+]

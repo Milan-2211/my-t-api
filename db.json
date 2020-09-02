@@ -1,0 +1,10 @@
+[{
+        "auth_id": 1,
+        "encrypt": "jasomadmin"
+    },
+    {
+        "auth_id": 2,
+        "encrypt": "jasomuser"
+    }
+
+]
